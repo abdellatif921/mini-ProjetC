@@ -1,0 +1,6 @@
+n:1 | Alami | Ali | CIN:JF39273 | adresse:Agadir salam 1887 | Telephone:0673894359 .
+n:2 | Lkdim | Mohamed | CIN:J283748 | adresse:Agadir tasila 287 | Telephone:0638451193 .
+n:3 | Alawi | Samira | CIN:JK38203 | adresse:Ait melloul assais 391 | Telephone:0638592643 .
+n:4 | Ibrahimi | Omar | CIN:KD18263 | adresse:Ait melloul assais 174 | Telephone:0623840283 .
+n:5 | Radie | Khadija | CIN:LE28343 | adresse:Temsia Rachad 785 | Telephone:0642218424 .
+n:6 | Fwaz | Samir | CIN:JR28634 | adresse:Agadir Al wifak 2751 | Telephone:0639824821 .

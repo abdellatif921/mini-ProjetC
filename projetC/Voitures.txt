@@ -1,0 +1,6 @@
+n:1 | Dacia | Logan | Blanch | place:15 | prix par jour:300 | Location:Oui .
+n:2 | Ford | Fiesta | Noir | place:26 | prix par jour:300 | Location:Non .
+n:3 | Renault | Clio | Noir | place:19 | prix par jour:250 | Location:Oui .
+n:4 | Citroen | C4 | Noir | place:28 | prix par jour:300 | Location:Non .
+n:5 | Peugeot | 206 | Gris | place:24 | prix par jour:200 | Location:Oui .
+n:6 | Dacia | Duster | Maron | place:13 | prix par jour:400 | Location:Non .

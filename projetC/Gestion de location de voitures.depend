@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623021534 source:c:\users\hp\desktop\gestion de location de voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
